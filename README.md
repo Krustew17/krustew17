@@ -46,14 +46,12 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ambidextrous">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ambidextrous&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krustew17&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=bear&hide_border=false&order=2" height="155" alt="languages graph"  />
+</div>
 
 ###
