@@ -63,9 +63,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krustew17&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=krustew17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1&custom_title=Krustew17's%20GitHub%20stats" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=krustew17&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
 ###
 
 <img align="right" height="0.1" src="https://media4.giphy.com/media/nERMP8fuaZqvM6i94v/200w.gif?cid=82a1493bktmpjtbvy19doavdzpqaw5e91jpxpdleq5fjmqnu&ep=v1_gifs_related&rid=200w.gif&ct=s"  />
@@ -79,3 +79,6 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wyn545uckdqkvggvwedxr2rn4e">
 </div>
+
+
+
