@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Krasi</h1>
+<h1>Hi there 👋, I'm Krasi</h1>
 
 ###
 
 <h2>just tryharding coding and enjoying life...</h2>
 
 
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h4 align="center">🛠 Tech Stack 🛠</h2>
 
 ###
 
