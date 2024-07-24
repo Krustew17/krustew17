@@ -2,11 +2,11 @@
 
 ###
 
-<h2>just tryharding coding and enjoying life...</h2>
+<p>just tryharding coding and enjoying life...</h2>
 
 ###
 
-<h4>🛠 Tech Stack 🛠</h2>
+<h2>🛠 Tech Stack 🛠</h2>
 
 ###
 
