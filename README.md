@@ -6,7 +6,7 @@
 
 ###
 
-<h2>🛠 Tech Stack 🛠</h2>
+<h2>Tech Stack</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h2 >🔥  My Stats  🔥</h2>
+<h2 >My Stats</h2>
 
 ###
 
