@@ -2,14 +2,6 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me  👩‍💻</h2>
-
-###
-
-<h3 align="center">I'm Krasi from Bulgaria, coding enthusiast studying at SoftUni with average GPA of 6</h3>
-
-###
-
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
 ###
