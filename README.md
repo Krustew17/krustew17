@@ -2,6 +2,9 @@
 
 ###
 
+<h2>just tryharding coding and enjoying life...</h2>
+
+
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
 ###
