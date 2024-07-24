@@ -77,7 +77,7 @@
 </div>
 
 <div>
-  https://spotify-recently-played-readme.vercel.app/api?user=31wyn545uckdqkvggvwedxr2rn4e
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wyn545uckdqkvggvwedxr2rn4e)
 </div>
 
 ###
